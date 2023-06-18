@@ -1,4 +1,4 @@
-# NZIP2023 Programming In Secondary Physics
+# NZIP 2023 Programming in Secondary Physics
 
 During the workshop "Programming in Secondary Physics" held at the NZIP2023 conference we will be making use of the following code examples:
 
