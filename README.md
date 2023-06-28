@@ -7,4 +7,6 @@ During the workshop "Programming in Secondary Physics" held at the NZIP2023 conf
 - **Python notebook "EOM_NZIP2023.ipynb"** contained in this repository:
    - Please download before the workshop 
    - Open with Google Colab, Jupyter notebooks or an editor of your choice like eg. Visual Studio Code.
+   - Google Colab: https://colab.research.google.com/
+   - Jupyter Lab: https://jupyter.org/try-jupyter/lab/
 
